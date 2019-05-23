@@ -2,7 +2,7 @@
   "name": "TeknoTips.NET",
   "short_name": "TeknoTips",
   "description": "Informasi Teknologi, Panduan Pemrograman, Belajar Database, Review Produk IT, Tutorial Windows Linux, Tips Trik Android, Ebook Source Code Program",
-  "start_url": "http://www.teknotips.net",
+  "start_url": "https://www.teknotips.net",
   "display": "standalone",
   "theme_color": "#029AE4",
   "icons": [
