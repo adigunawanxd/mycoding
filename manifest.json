@@ -1,10 +1,7 @@
 {
-  "name": "BlackExpo.ID",
-  "short_name": "BlackExpo",
-  "description": "Portal Edukasi Seputar Teknologi, Panduan Pemrograman Komputer, Review Produk IT, Tips Trik Android dan Source Code Program",
-  "start_url": "https://www.blackexpo.id",
-  "display": "standalone",
-  "theme_color": "#029AE4",
+  "short_name": "MyCoding",
+  "name": "Mycoding.net",
+  "description": "Panduan Belajar Database dan Tutorial Pemrograman Terlengkap di Indonesia. Dapatkan Kumpulan Source Code Program Aplikasi dan Ebook Secara Gratis",
   "icons": [
     {
       "src": "https://3.bp.blogspot.com/-DWPHA6kC4o8/XH4kQrp4S5I/AAAAAAAAQ0c/Tvt8m-hb7QwYf6gy7x3hrsjoORTsxs3OACLcBGAs/s1600/TeknotipsLogo32.png",
@@ -52,5 +49,9 @@
       "type": "image/png"
     }
   ],
-  "background_color": "#FFFFFF"
+  "start_url": "https://www.mycoding.net",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#2196f3"
 }
