@@ -1,57 +1,66 @@
 {
-  "short_name": "MyCoding",
+  "short_name": "My Coding",
   "name": "Mycoding.net",
   "description": "Panduan Belajar Database dan Tutorial Pemrograman Terlengkap di Indonesia. Dapatkan Kumpulan Source Code Program Aplikasi dan Ebook Secara Gratis",
   "icons": [
     {
       "src": "https://3.bp.blogspot.com/-DWPHA6kC4o8/XH4kQrp4S5I/AAAAAAAAQ0c/Tvt8m-hb7QwYf6gy7x3hrsjoORTsxs3OACLcBGAs/s1600/TeknotipsLogo32.png",
       "sizes": "32x32",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://4.bp.blogspot.com/-NfDRS-3IX7U/XH4kQ4xf4fI/AAAAAAAAQ0g/sLJWi8XhxN4VQi34jU982or4sdYwNS0mgCLcBGAs/s1600/TeknotipsLogo48.png",
       "sizes": "48x48",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://4.bp.blogspot.com/-sDVvfgykzHE/XH4kRtA1X9I/AAAAAAAAQ0o/DP6Zi7l6ovIUrfSs75DQISiZQpSSpaEXwCLcBGAs/s1600/TeknotipsLogo72.png",
       "sizes": "72x72",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-Vt3QhBPiuic/XH4kRsipyQI/AAAAAAAAQ0s/OqH4ULIt7tgMWeD8ZseFBdpHGzRT-ch_wCLcBGAs/s1600/TeknotipsLogo96.png",
       "sizes": "96x96",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-DnMVcsN-ZWg/XH4kPhWHSnI/AAAAAAAAQ0M/9ZAeuNVPT2klCL7hwdcs3cUhgmEwRf5WACLcBGAs/s1600/TeknotipsLogo144.png",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://3.bp.blogspot.com/-0KDH1_1r4Uo/XH4kPpXJZMI/AAAAAAAAQ0Q/3ywXwUTA6rUznpzzluITnd9nlNE1ktnKwCLcBGAs/s1600/TeknotipsLogo168.png",
       "sizes": "168x168",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://2.bp.blogspot.com/-hrzQVkS-Spg/XH4kP7ddugI/AAAAAAAAQ0U/G0zTVAUQz5MkeUmWdsSDCz67h0b7IJaUACLcBGAs/s1600/TeknotipsLogo180.png",
       "sizes": "180x180",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://3.bp.blogspot.com/-FV7RTAdd1mU/XH4kQQ5wSUI/AAAAAAAAQ0Y/-zrQ4OtFFdw7BdegbbGNchYt1a3e_KL_QCLcBGAs/s1600/TeknotipsLogo192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-d0cqefrtPdc/XH4kRTsemrI/AAAAAAAAQ0k/uENxcBTxo2sdqP8g5x9zUqhXSfIq0QRnACLcBGAs/s1600/TeknotipsLogo512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ],
   "start_url": "https://www.mycoding.net",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#2196f3"
+  "theme_color": "#006699"
 }
