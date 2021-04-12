@@ -1,0 +1,66 @@
+{
+  "short_name": "Mycoding.net",
+  "name": "Mycoding.net",
+  "description": "Panduan Belajar Database dan Tutorial Pemrograman Terlengkap. Dapatkan Kumpulan Source Code Program Aplikasi dan Ebook Secara Gratis dari MC Project",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-YjQFDLOGlHY/YHSZT0EPyfI/AAAAAAAAAzI/4-YJYWSp4c8cRsBdpL4Rj1au8VN3EpK1wCLcBGAsYHQ/s32/MycodingLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-vJbEJJU84M0/YHSZTydY9EI/AAAAAAAAAzM/e5TDM3L_m1wQ9K6V4ziXz2g7HOo66gBtACLcBGAsYHQ/s48/MycodingLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-gnmQG7CQJZI/YHSZUv2zYTI/AAAAAAAAAzU/Be4tsbMIN8gdA8WJ6erutudWuiBIM1zQQCLcBGAsYHQ/s72/MycodingLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-wQl8gecLRsQ/YHSZUndqoJI/AAAAAAAAAzY/fbIR2SatymQsKKA87JemK62Gi-ASY6FuACLcBGAsYHQ/s96/MycodingLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-3ND3xAS1lIk/YHSZSbzIq1I/AAAAAAAAAy0/0pOr9lMWLMYbGinshtauiFvt_str8sFZgCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-W9lJ-B3xzOA/YHSZSTyW_PI/AAAAAAAAAy4/EnYtFGZW-BIQRsgUWBG0Kd9GsR26jlSYwCLcBGAsYHQ/s168/MycodingLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-kNE0Iyv7TR0/YHSZTCshhBI/AAAAAAAAAzA/e13-Ku5WrlURXmpqenrFdVKi7aswl9csQCLcBGAsYHQ/s180/MycodingLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Y-0wqp_zACA/YHSZThXeQWI/AAAAAAAAAzE/Ba4wYsHpeIwB6R-JN7fhJg202gPYqARxACLcBGAsYHQ/s192/MycodingLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-uOgkhnoazs4/YHSZUdEqnTI/AAAAAAAAAzQ/1GgZsApYpDcKMtzJ4PCdN2upBWRsA286wCLcBGAsYHQ/s512/MycodingLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://www.mycoding.net/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0072B5"
+}
